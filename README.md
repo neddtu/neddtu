@@ -2,7 +2,7 @@
 
 # Hi, I'm Ned 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C4612F&center=true&vCenter=true&width=720&lines=Full-stack+developer;React+%2B+TypeScript+builder;Zalo+Mini+App+enthusiast;I+ship+clean+and+useful+products" alt="Typing animation: Full-stack developer, React and TypeScript builder, Zalo Mini App enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C4612F&center=true&vCenter=true&width=720&lines=ReactJS+%2B+Next.js+developer;NestJS+backend+builder;React+Native+mobile+developer;Full-stack+products+from+idea+to+ship" alt="Typing animation: ReactJS and Next.js developer, NestJS backend builder, React Native mobile developer" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=neddtu&color=C4612F&style=flat-square)](https://github.com/neddtu)
 [![GitHub followers](https://img.shields.io/github/followers/neddtu?style=flat-square&logo=github&label=Followers&color=C4612F)](https://github.com/neddtu?tab=followers)
@@ -14,9 +14,9 @@
 
 ## About me
 
-I'm a developer focused on building practical, polished web and mini-app experiences. I like clean interfaces, simple architecture, and tools that help people move faster.
+I'm a full-stack developer focused on building practical, polished web and mobile experiences with ReactJS, Next.js, NestJS, and React Native. I like clean interfaces, simple architecture, and tools that help people move faster.
 
-- 🔭 Working on: full-stack web apps and Zalo Mini Apps
+- 🔭 Working on: full-stack web apps, backend APIs, and mobile apps
 - 🌱 Learning: scalable frontend patterns, cloud deployment, automation
 - 💡 Interested in: developer tools, AI-assisted workflows, product engineering
 - 🎯 2026 focus: ship public projects, document more, contribute consistently
@@ -28,21 +28,24 @@ I'm a developer focused on building practical, polished web and mini-app experie
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Workflow
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1F2421?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Zalo Mini App](https://img.shields.io/badge/Zalo_Mini_App-0068FF?style=for-the-badge&logo=zalo&logoColor=white)
+
+### Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-### Exploring
-![Zalo Mini App](https://img.shields.io/badge/Zalo_Mini_App-0068FF?style=for-the-badge&logo=zalo&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
@@ -53,11 +56,12 @@ I'm a developer focused on building practical, polished web and mini-app experie
 ```ts
 const ned = {
   code: ["TypeScript", "JavaScript", "HTML", "CSS"],
-  frontend: ["React", "Vite", "Tailwind CSS"],
-  mobile: ["Zalo Mini App", "React Native"],
+  frontend: ["ReactJS", "Next.js", "Tailwind CSS"],
+  backend: ["NestJS", "Node.js", "REST APIs"],
+  mobile: ["React Native", "Zalo Mini App"],
   workflow: ["Git", "ESLint", "Prettier", "VS Code"],
   values: ["clarity", "speed", "maintainability", "good UX"],
-  now: "turning ideas into small, shipped products",
+  now: "building full-stack web apps and mobile experiences",
 };
 ```
 
