@@ -98,7 +98,7 @@ const ned = {
 
 <div align="center">
 
-> Build small. Ship often. Improve every loop.
+Build small. Ship often. Improve every loop.
 
 Thanks for visiting ✨
 
