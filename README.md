@@ -84,20 +84,6 @@ const ned = {
 
 ---
 
-## Featured work
-
-<div align="center">
-
-| Project | Status | Notes |
-| --- | --- | --- |
-| Public portfolio | Live | Personal website and project hub |
-| Zalo Mini App experiments | Building | UI, state, deployment workflow |
-| Open-source utilities | Soon | Small tools from real workflows |
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
