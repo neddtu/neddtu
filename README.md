@@ -6,7 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=neddtu&color=C4612F&style=flat-square)](https://github.com/neddtu)
 [![GitHub followers](https://img.shields.io/github/followers/neddtu?style=flat-square&logo=github&label=Followers&color=C4612F)](https://github.com/neddtu?tab=followers)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ddtu.io.vn-C4612F?style=flat-square&logo=safari&logoColor=white)](https://portfolio.ddtu.io.vn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ddtu.io.vn-C4612F?style=flat-square&logo=safari&logoColor=white)](https://ddtu.io.vn)
 
 </div>
 
@@ -88,7 +88,7 @@ const ned = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-C4612F?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.ddtu.io.vn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C4612F?style=for-the-badge&logo=safari&logoColor=white)](https://ddtu.io.vn)
 [![Email](https://img.shields.io/badge/Email-tucoi229%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucoi229@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-neddtu-181717?style=for-the-badge&logo=github)](https://github.com/neddtu)
 
